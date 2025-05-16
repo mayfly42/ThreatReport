@@ -1,2 +1,2 @@
-收集网络安全威胁报告
+收集网络安全威胁报告和数据泄露样本
 Collect cybersecurity threat reports
